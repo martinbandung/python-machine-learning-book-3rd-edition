@@ -602,3 +602,27 @@ ada_sgd.partial_fit(X_std[0, :], y[0])
 
 
 
+
+
+
+a=pd.DataFrame([1,2,3])
+
+
+
+
+a
+
+
+
+
+a.to_feather('test_save_feather')
+
+
+
+
+
+
+
+
+
+
