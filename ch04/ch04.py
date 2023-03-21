@@ -478,6 +478,11 @@ lr.coef_[lr.coef_!=0].shape
 
 
 
+y_train
+
+
+
+
 lr.coef_
 
 
